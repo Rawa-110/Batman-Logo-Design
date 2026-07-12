@@ -19,10 +19,6 @@ Extrude
 النتيجة لنتيجة (Result)Result)
 
 A precise and symmetrical Batman logo was successfully designed as a 2D sketch and prepared for 3D extrusion.
-![Uploading image.png…]()
-
-
-
 
 
 
